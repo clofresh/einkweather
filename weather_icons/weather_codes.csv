@@ -1,0 +1,48 @@
+113,Clear/Sunny,Sun,Moon
+116,Partly Cloudy,Cloud-Sun,Cloud-Moon
+119,Cloudy,Cloud,Cloud
+122,Overcast,Cloud,Cloud
+143,Mist,Cloud-Fog,Cloud-Fog
+176,Patchy rain nearby,Cloud-Drizzle-Sun,Cloud-Drizzle-Moon
+179,Patchy snow nearby,Cloud-Snow-Sun,Cloud-Snow-Moon
+182,Patchy sleet nearby,Cloud-Snow-Sun,Cloud-Snow-Moon
+185,Patchy freezing drizzle nearby,Cloud-Snow-Sun,Cloud-Snow-Moon
+200,Thundery outbreaks in nearby,Cloud-Lightning-Sun,Cloud-Lightning-Moon
+227,Blowing snow,Cloud-Snow-Sun,Cloud-Snow-Moon
+230,Blizzard,Cloud-Snow-Sun,Cloud-Snow-Moon
+248,Fog,Cloud-Fog,Cloud-Fog
+260,Freezing fog,Cloud-Fog,Cloud-Fog
+263,Patchy light drizzle,Cloud-Drizzle-Sun,Cloud-Drizzle-Moon
+266,Light drizzle,Cloud-Drizzle-Sun,Cloud-Drizzle-Moon
+281,Freezing drizzle,Cloud-Snow-Sun,Cloud-Snow-Moon
+284,Heavy freezing drizzle,Cloud-Snow-Sun,Cloud-Snow-Moon
+293,Patchy light rain,Cloud-Rain-Sun,Cloud-Rain-Moon
+296,Light rain,Cloud-Rain,Cloud-Rain
+299,Moderate rain at times,Cloud-Rain,Cloud-Rain
+302,Moderate rain,Cloud-Rain,Cloud-Rain
+305,Heavy rain at times,Cloud-Rain,Cloud-Rain
+308,Heavy rain,Cloud-Rain,Cloud-Rain
+311,Light freezing rain,Cloud-Snow-Sun,Cloud-Snow-Moon
+314,Moderate or Heavy freezing rain,Cloud-Snow-Sun,Cloud-Snow-Moon
+317,Light sleet,Cloud-Snow-Sun,Cloud-Snow-Moon
+320,Moderate or heavy sleet,Cloud-Snow-Sun,Cloud-Snow-Moon
+323,Patchy light snow,Cloud-Snow-Sun,Cloud-Snow-Moon
+326,Light snow,Cloud-Snow,Cloud-Snow
+329,Patchy moderate snow,Cloud-Snow,Cloud-Snow
+332,Moderate snow,Cloud-Snow,Cloud-Snow
+335,Patchy heavy snow,Cloud-Snow,Cloud-Snow
+338,Heavy snow,Cloud-Snow,Cloud-Snow
+350,Ice pellets,Cloud-Hail-Sun-Alt,Cloud-Hail-Moon-Alt
+353,Light rain shower,Cloud-Drizzle-Sun,Cloud-Drizzle-Moon
+356,Moderate or heavy rain shower,Cloud-Rain,Cloud-Rain
+359,Torrential rain shower,Cloud-Rain,Cloud-Rain
+362,Light sleet showers,Cloud-Snow,Cloud-Snow
+365,Moderate or heavy sleet showers,Cloud-Snow,Cloud-Snow
+368,Light snow showers,Cloud-Snow,Cloud-Snow
+371,Moderate or heavy snow showers,Cloud-Snow,Cloud-Snow
+374,Light showers of ice pellets,Cloud-Hail-Sun-Alt,Cloud-Hail-Moon-Alt
+377,Moderate or heavy showers of ice pellets,Cloud-Hail-Sun-Alt,Cloud-Hail-Moon-Alt
+386,Patchy light rain in area with thunder,Cloud-Lightning-Sun,Cloud-Lightning-Moon
+389,Moderate or heavy rain in area with thunder,Cloud-Lightning,Cloud-Lightning
+392,Patchy light snow in area with thunder,Cloud-Lightning,Cloud-Lightning
+395,Moderate or heavy snow in area with thunder,Cloud-Lightning,Cloud-Lightning
